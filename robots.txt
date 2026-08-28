@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veramasaitsol.github.io/reference-de43fb/sitemap.xml
